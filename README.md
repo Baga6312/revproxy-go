@@ -1,9 +1,11 @@
 
 # RevProxy_GO
 
-clone of TinyPR 
+## clone of TinyPR 
 
 Just a simple reverse proxy writting in golang  
+
+The Purpose of this is to bypass warnings when tunneling with ngrok or localtunnel 
 
 ## Installation 
 installing requried packages first
